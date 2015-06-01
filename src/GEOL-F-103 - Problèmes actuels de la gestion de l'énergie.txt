@@ -1,0 +1,1661 @@
+﻿GEOL-F-103  - Problèmes actuels de la gestion de l’énergie
+Résumé modifiable :
+https://docs.google.com/document/d/1-H0yDZqJIuXh3XqKn9nMS2P_s8J_gCXdII2gC8LWDZw
+
+
+
+
+
+
+
+
+
+Aide à l’étude
+
+Problèmes actuels de la gestion de l'énergie
+
+GEOL-F-103
+________________
+e1. Energie fossile : lecon 1
+
+
+1g U235 = 1 tep ( ou 1 T = 10000 tep ) à verifier
+1h soleil déverse notre énergie de 365 j
+1 tep = 42 GJ = 11600 kWh
+1 kal = 4,18 J
+1000 m³ gaz =  0,9 tep
+1 t charbon = 0,7 tep
+
+
+Chiffre de 2007 :
+
+
+Renouvelable : 17 %
+Solaire , vent, géothermique:1 %
+Biocarburant:1 %
+Hydro-électricité : 6 %
+Biomasse : 9 %
+Nucléaire : 5 %
+Combustible fossie : 78 %
+Gaz conventionnel : 20 %
+Charbon : 25 %
+Pétrole conventionnel : 33 %
+
+
+
+
+
+
+
+
+consommation mondiale d'énergie primaire en  2010 : + 5,6 %
+Pétrole : +3,1 %
+Gaz naturel : + 7,4 %
+Charbon : 7,6 %
+
+
+Les combustibles fossiles représentent 80% de l'énergie primaire
+Et 65 % de la production d’électricité ( Hydraulique : 16 % et nucléaire 15%)
+
+
+
+
+Dans le scénario 2006 de négawatt, l'énergie renouvelable représente 50% de l'énergie en 2050.
+
+
+Le production d'énergie fossile de 1999 à 2009 a baissé en amérique du nord et en europe de 1 et 2 %. Dans le reste du monde, la production à augmentée ( + 67% en asie pacifique).
+
+
+Consomation de 1000 bbl/sec.
+Dans sa vie un américain né en 2008 va consomé 1950 bbl.
+
+
+Le transport représente 1/3 de l'énergie mondiale.
+=> Grande augmentation du prix 1973:3$ le bbl, 2008:98.50$ le bbl.
+
+
+Energie secondaire : Energie fabriquée à partir des énergies primaires.
+
+
+Les sources d'énergies :
+Energie TRES concentrées:
+Fission 1g U235 => 22.000 kWh
+fusion 1 g H => 180.000 kWh
+Energie moins concentrée:
+Pour 1kWh :
+        combustion 0.1kg charbon,gaz ou pétrole
+        condensation de 1.6kg de vapeur d'eau
+        Captage énergie solaire sur 1m²
+Energie pas concentrée:
+Pour 1 kWh:
+        Chute de 3t d'eau de 100m de haut
+        éoliènne 20.000m³ d'air à 60 km/h
+
+
+Géopolitique: Etude des rapports qui unissent les états, leurs politiques et les lois de la nature, ces dernières déterminant les autres.
+
+
+L'accroissement de la population a été maximale dans les années 60, et ensuite elle n'a fait que diminué. ( 2.2% dans les 60' et maintenant <1.5% )
+2008 : 190.000 humains/j
+La démographie est freinée par le développement (éducation, augmentation de l'age moyen de mariage,...)
+
+
+Il a fallu plus de 2M d'année pour passer à 5 milliards d'individu et il en faudra 40 pour passer de 5 à 10.
+
+
+Pourquoi toujours le pétrole ? Bon marché, assez concentré et économique lorsqu' associé avec une machine.
+
+
+Aucune énergie renouvelable ne peux remplacer le pétrole à court et moyen terme donc casseµtête énergétique. 
+Alternative => Sobriété : diminution de 70% de la consommation d'E dans nos pays.
+
+
+
+
+Top consomateur pétrole :
+1/USA
+2/Chine + HK
+3/Japon
+
+
+La production mondiale de pétrole ne scesse de diminuer.
+Nous consomons plus que la découverte ( 3 à 4 bbl pour 1 ) => Augmentation prix.
+=> 2000 réacteur pour remplacer 1/4 production de pétrole.
+2008 : 448 réacteurs
+
+
+Pétrole bon marché est fini => Monde encore plus dépendant du moyen-orient
+
+
+1 BBL = 159 L
+
+
+Rafinage du pétrole:
+Pétrole brut -> Epuration->Distillation
+Gaz = +- 180°
+Essence solvant léger = +- 250°
+Kérosène = 360°
+Résidus = > 500 ° ( craquage)
+
+
+1 bbl = Gasoline 73,8                                        L
+        Fuel Oil =34,8
+        Jet fuel = 15,5
+        asphalte = 8,7
+        kérosène = 0,8
+        Lubrifiant = 1,9
+        pétrochimie et autres produits = 23,5
+
+
+Manque d'entretien et refus d'investir car l'argent rentre de toute façon.
+Problème de piraterie
+
+
+Explosion démographique de 20e s. => Pays du tier monde ( Beaucoup d'enfant)
+                                        => Diminution mortalité infantine.
+
+
+2010 : gaz,pétrole,charbon = 80/90%
+
+
+Les réserves :
+Pétrole = 40/50 ans
+Gaz = 50/70 ans
+Charbon = 200 ans
+Nucléaire neutron lent = 40/50 ans
+Nucléraire neutron rapide = 200/250 ans
+Fusion Thermonucléaire D-T  = 103 ans
+Fusion Thermonucléaire D-D  = 109 ans
+Energie renouvelable = 109 ans ( mais rendement énergétique trop faible)
+
+
+Scénarion 2100 :
+Energie fossile épuisée
+Nucléaire neutron lent épuisé
+Nucléaire neutron rapide : 10.000 réacteur
+Eoliennes = 10 M
+Chauffage solaire , cellule photovoltaïque = tech. maitrisée
+Panneau dans l'espace non maitrisée
+
+
+Inconvéniant/avantage ER :
+L'hydraulique: Potentiel important dans pays en voie de dév. Mais gd barages critiqués ( boulversement écosysteme, dépl pop, modification climatique locale,...)
+La biomasse: Utilisé depuis des millénaires Mais conflit entre besoin énergétique et alimentaire.
+Eolien: Intermitant et problème de stockage de l'énergie
+Photovoltaïque:kWh 4x plus cher que kWh nucléaire.
+
+
+Equivalence unitées:
+1t Essence = 1,048 tep
+1t GPL = 1,095 tep
+1fioul lourd = 0,952 tep
+1 tec = 0,697 tep
+ 
+TEP = 1010 Cal
+
+
+Pic production max de gaz décallé par rapport au pétrole
+2002 : 14 % ER
+
+
+
+
+
+
+
+
+2100: réchauffement anthropique
+Montée de niveau de la mer de 15-95 cm
+Apparition maladie tropicale
+disparition glacier
+font calotte
+perturbation météo, ...
+
+
+
+
+
+
+CONSTAT VALIDE EN 2007 :
+Augmentation T° de 0,6+-0,2
+Elevation 10-20cm
+Décénie 1990 la plus chaude depuis les relevé météo
+Disparition 10% couverture neigeuse depuis les 60'
+
+
+D'ici 2100 = entre 1,4 et 5,8 ° de variation (3° de moyenne
+
+
+
+
+
+
+Effet de serre:
+CO2: 385 ppm ( Dissolution des calcaires, combustion des forêts, Respiration animale et végétale, émission volcanique, combustible fossile), 200 ans dans l'atm
+CH4:40 x plus actif, 1,8 ppm, 20% de l'effet de serre,(marais,rizière, flaculences des ruminants, décharge d'ordure ménagère, fuites gaz naturel), risque de  déstockage à partir des clathrates, temps résidence atm très court. 30 X PLUS ABSORBANT.
+
+
+
+
+Accord de Kyoto : Réduire émission de 5,2% en 2012 par rapport a 1990
+Même si on arrivait à passer aujourd’hui les émissions de CO2 à ZERO,
+sa concentration dans l’atmosphère ne diminuerait que de 40% d’ici à l’an 3000....!
+
+
+Variation de la température moyenne de la terre de 5 à 6° au total(+ et -)
+
+
+Cycle de MILANKOVITCH : Période glaciaire et interglaciaire
+La différence de température moyenne entre les période GL et IGL = +- 5 °
+On est dans une IGL pour encore 50.000 ans
+Lors du changement Gl/Igl, variation T° +- 1° en 1000 ans et ici 0.6° en 50 ans
+
+
+Augmentation du méthane : ANTHROPIQUE => Exploitation gaz naturel, décharge, zone agricole irriguées, bétail et plantes.
+
+
+Mais aussi les clathrate : Molécule d'eau ayant piégé du méthane solide. Dans eau froide, pression élevé et matière organique suffisante pour bactérie méthanogène.
+TRES INSTABLE ! Peut céder si changement de pression ou T°
+
+
+=> 1 m³ clathrate = 170m³ méthane gazeux
+Originie ? Décomposition anaérobique de bactéries
+
+
+Réchauffement de qq °C => Fusion clathrates => Gigantesques glissements sous-marins
+On connait 17 cycles de 100.000 ans
+Depuis la fontes des calottes polaires et glacier ( -18 à -15.000 ans) Niveau mer + 120m
+
+
+Si toute la calottes fond dans 500 ans => NM +6m
+
+
+LE RECHAUFFEMENT EST BIEN LIE A L'HOMME
+
+
+La nature ne peut absorber que 12 Gt de CO2
+
+
+Emission de CO2 en g/kWh:
+Nucléaire=6
+Hydro = 4 à 7
+Eolien = 3 à 22 (suivant techno)
+Solaire (photovoltaique) = 50 à 150 ( selon le lieu de fabrication)
+Gaz = 400
+Petrole = 850
+Charbon = 750 à 1100 (suivant techno)
+Biomasse = 0 à 1500 ( si replantation ou pas)
+
+
+Plus un combustible contient d'hydrogène, moins il rejette de gaz carbonique.
+Voiture = 100 à 200g/km
+
+
+FIN LECON 1
+
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
+
+LECON 10 :Géothermie/Hydrolique/Biomasse
+
+
+Surface nécessaire pour produire 10 TWh d'électricité à partir d'énergie renouvelable
+(= production annuelle d'un réacteur thermique moderne)
+Centrale thermique classique et nucléaire = 1-10 km²
+
+
+
+
+Solaire  = 100km²
+Eolien = 500 km²
+Solaire photovoltaïque = 5000 km²
+Biodiesel(tournesol ou colza) = 30 000 km²
+Géothermie(pompe à chaleur) = 50 000 km²
+Géothermie 'géologie' = très faible surface
+Hydrolique = faible surface
+
+
+Ces énergies sont diluées mais ne dégage presque pas de CO2
+
+
+L'énergie éoliène:
+Lancé après le premier choc pétrolier de 1973
++- 1 à 2 % de l'électricitée mondiale ( 2 % en Belgique => +- 500 éoliènes)
+L'europe est la pionère (5% en 2010 ?10% en 2012) => Surtout ALLEMAGNE
+
+
+L'énergie solaire:
+L'énergie de la lumère éclairant un carré de 25 km²/an => Energie consomée en france pendant 1 an (550 milliard de kWh)
+Rendement 2010 = 10 à 20 %
+Labo = 41 %
+=> 4 % élec en 2020?
+
+
+
+
+Part de production d'électricité en 2008:
+Charbon 42,3%
+Gaz Naturel 19,5%
+Hydrolique 16,1%
+Nucléaire 13,5%
+Fioul 5,8%
+Biomasse 1,1%
+Eolien 1,1%
+Géothermie 0,3%
+Déchet urbain 0,2%
+Solaire 0,06%
+
+
+2008 :
+Consomation énergie primaire = -1,-1%
+Pétrole = -1,7%
+Gaz = -2,1%
+Charbon = stable
+Nucléaire = -1,3%
+Hydrolique = 1,5%
+
+
+Attention( Haut taux de croissance car faible contribution au départ)
+Eolien = +34%
+Solaire = +47%
+Ehtanol = + 8,1%
+
+
+
+
+2010:
+Consomation énergie primaire = +5,6%
+Charbon = +3,1%
+Gaz naturel = +7,4%
+
+
+
+
+Les ER ne décollent pas dans la prod d'élec
+Hydraulique = 85% des ER
+65 à 70% de la production mondiale d’électricité = Combustibles fossiles, 20% ER, ensuite Nucléaire
+
+
+La géothermie
+2004 : Troisième position des énergies renouvelables
+
+
+Chaleur interne de la terre = radioactivié
+Les roches consuisent mal la chaleur
+T° faible => Production de chaleur
+T° Haute => Production électricité
+
+
+Capacité électrique géothermale mondiale est de 10 GW
+Il y a 10 > E Eolien => Mtn 10x moindre
+
+
+5 pays plus de 15% => Costarica,El salvador, Islande, Kenya, Philippines
+4 Pays produisent 5 à 10 % => Nv zélande, indonésie, nicaragua, guadeloupe
+
+
+ENORME POTENTIEL => USA contient 125.000 X leurs consomation annuelle dans les roches chaudes.
+
+
+Un seul forage à 3km = 5 millions $
+Taux de croissance le plus faible
+
+
+Cette production de chaleur a pour origine la radioactivité naturelle dans le manteau
+
+
+GRADIANT GEOTHERMIQUE = Augmentation T° en fonction de la profondeur
+=> 3,3°/ 100m ( ou 1 ° tout les 30-40 m)
+
+
+
+
+Les ressources potentielles sont énormes (700 Gtep) mais flux trop faible pour être expoitable => Forage qui pompe l'eau chauffée en sous sol
+
+
+Première production électrique géothermale en Italie 1904
+
+
+Terre solide est une planète dynamique, produit chaleur et recoit du soleil
+
+
+Le flux géothermique varie de 20 à 100 mW/m²
+
+
+Flux de chaleur dissipé à la surface de la terre :
+
+
+Continents : 109, 3 * 106 km² - 58,6 mW/m² - 8,8 * 1012 W
+Plates-formes continentales: 52,2 * 106 km² - 54,4 mW/m² - 2,8 * 1012 W
+Océans: 308,652,2 * 106 km² - 67 mW/m² - 30,42 * 1012 W
+                                                Total : 42 * 1012 W
+
+
+
+
+Origine de cette chaleur ? Energie d'accrétion, énergie de différenciation, énergie radioactive.
+
+
+Chaleur interne :
+Radioactive = 38 TW
+Différenciation+Mouvement+Accrétion = 7,3 TW
+                        Total = 42,3 TW / Flux moyen = 70 mW/m²
+
+
+Chaleur externe:
+Soleil = 7*105 TW
+Flux moyen (apprès dissipation ) = 1400 W/m² ( 85 à 290 au sol)
+
+
+
+
+La source la plus importante est la désintegration radioactive
+
+
+Element dont la désintégration génere une chaleur importante:
+
+
+235U -> 207Pb - 5,69 * 10-4 J/Kg/°K - 0,7 Ga
+238U -> 206Pb - 9,37 * 10-5 J/Kg/°K - 4,47 Ga
+232Th -> 208Pb - 2,69 * 10-5 J/Kg/°K - 14,0 Ga
+40K -> 40Ar - 2,79 * 10-5 J/Kg/°K - 1,35 Ga
+
+
+
+
+Modes de transport de l'énergie thermique:
+Transport conductif ( i.e:La casserole chauffe , ce qui chauffe l'eau)
+Transport convectif ( i.e:La chaleur se déplace dans l'eau)
+Transport par rayonnement
+
+
+La chaleur s'écoule des parties les plus chaudes vers les parties les plus froides
+Le flux de chaleur  est la qtté de chaleur en J traversant une unité de surface par unité de temps ( J/(s*m²) = W/m²)
+
+
+Que se passera t'il quand la terre sera en état isotherme ?
+Fin de la convection
+        => Fin Volcanisme
+        => Absence de scéisme
+        => Fin mouvement des plaques 
+                => Plus de formation de montagne 
+                        => Disparition progressive des reliefs
+        => Champ géomagnétique presque totalement disparu
+                => Rayonnement solaire beaucoup plus important à la surface terrestre
+                        => Vie sur terre modifié
+
+
+Un flux géothermique provoque un échauffement de l'eau contenue dans les roches
+Champ à basse T° ( T° < 150°C à 1000m)
+Champ à haute T° ( T° >200°C à 1000 m)
+
+
+Exploration et forage:
+Premier forage d'exploration de petit diamètre avec un camion entre 200 et 1500 m de profondeur
+Puits de prod = profondeur jusqu'a 3/4 km => +1 Millions de $
+
+
+Production d'élec:
+Vapeur naturelle allimente une turbine, vapeur condensée par évaporation dans une colonne de refroidissement et renvoyé par un puits d'injection.
+2 puits : Production et injection
+
+
+Différents types d'usines:
+Vapeur seche : Vapeur à la place de l'eau.Producion électricité via une turbine., Les champs de vapeur sèche sont rares. Gisement 1 à 3 km
+
+
+Vapeur flash: Réservoir à eau chaude. Champ les plus communs
+
+
+Cycle binaire:Chaleur géothermale de l'eau chaude est utilisée pour faire travailler un autre fluide qui alimente la turbine.
+        Avantage:Les réservoirs peuvent travailler à plus basse T°
+
+
+
+
+
+
+
+
+Avantage de l'énergie géothermale :
+-Fournit une énergie propre et de sécurité, utilisant peu de surface
+-Renouvelable
+-Fournit une puissance continue et contrôlable
+-N'utilise aucun hydrocarbure
+-Contribue à la diversité des sources d'énergie
+- Evite les importations et bénéficie aux économies locales
+-Permet des installations modulaires dans des villages ou villes éloignées
+
+
+Désavantages :
+-Zones TRES chaudes rares
+- Zones normales irrégulièrement distribuées
+- Probabilité de ramener des éléments indésirables  ( i.e : CO2 )
+
+
+=> Solutions globales et locales
+
+
+
+
+Croissance exponentielle de 1980 à 1990 USA.
+En 2005 25 pays on fournis 8912 MWe à 60 Mhab et 71 pays ony produit de la chaleur géothermale.
+
+
+
+
+Seule géothermie HT utilisée pour produire de l'électricité, le reste sert à la production de chaleur.
+kWh reste cher.
+
+
+Utilisation : Balnéaires(stations thermales), Agricultures(serres et réchauffement des sols), Aquaculture (poissons, crevettes, ...), Usage industriel et chauffage résidentiel.
+
+
+L'énergie géothermale permet chaque année de ne pas rejeter 22 M CO2.
+
+
+Géthermie de basse énergie (50-90 °C):
+Si eau peu corrosive => Chauffage
+Durée de vie de 30 ans
+Réserve mondiale considérable
+
+
+Géothermie de moyenne énergie (90-150 °C):
+T° Trop faible pour produire électricité avec cycle ouvert => cycle fermé binaire avec échangeur de chaleur.
+Durée de vie de 30 à 50 ans.
+Tech maitrisée depuis 1980 => FLuide passe dans un échangeur de chaleur qui actionne une turbine.
+
+
+Géothermie de Haute énergie ( > 150 °C)
+Reserve > 1.000.000 MW
+Prospection moins couteuse que prospection pétrolière.
+
+
+L'émission de CO2 dans l'atm est comprise entre 15 et 380 g/kWh (Uniquement haute énergie) alors que en. fossile => 1kg/kWh
+
+
+
+
+Trois filières :
+
+
+1. La filière électrique: La vapeur d'eau surchauffée pressurisée directement utilisée dans une turbine qui produit de l'énergie mécanique transformée ensuite en électricité.
+
+
+2. La filière de production de chaleur : alimente des réseaux de chaleur pour le chauffage des locaux
+
+
+3. La filière des pompes à chaleur géothermale: Utilise chaleur à basse t° ( de 12 à 30 °C) => Chaleur du soleil stocké dans les premiers mètres du sol
+
+
+
+
+EN CONCLUSION :
+Pour :
+-Sa concentration : Forte production sur petite surface au sol.
+-Le secteur progresse mais largement dépassé par d'autres ER.
+
+
+Contre :
+-Entraîne la remontée de polluant qui pourrait poluer lac et rivière.
+
+
+Pour ou contre:
+Rejette CO2 mais beaucoup moins que en.fossile
+
+
+
+
+
+
+
+
+HYDRAULIQUE :
+1 ere énergie renouvelable 2004-2012
+18% prod élec mondiale années 2000'
+
+
+2008 : 13.000 grands barrages
+
+
+L'énergie de l'eau est diluée => Concentration avec les barrages.
+Capacité totales des barrages = 4 Tm³
+Amélioration du cycle naturel de 16 %
+
+
+La gestion de l'eau est en équilibre lorsque les prélevements sont < 20 % des apports moyens annuels.
+En EUROPE : > 20%  => Politique à court terme et dégradation en 2070 avec consomation > offre. ( Voir même avant car pollution)
+
+
+Energie = mgh
+
+
+Barrage :
+Dénivelé des plus grands = 200 m => Débit faible suffisant
+
+
+Des plus petits => ( qq m) requiert grand débit.
+
+
+Energie couteuse en investissement mais économique en fonctionnement.
+Grande hydraulique très rentable.
+=> Néscéssite de gros prêts => Enferme les pays pauvres dans le cercle vicieux de la dette.
+
+
+CONCLUSION :
+Pour :
+-Concentration
+-Stockage facile (Pompage pendant heures creuses et turbinages heures de pointe.
+-Pas d'utilisation hydraucarbure ... Mais construction ?
+
+
+Contre:
+-Impact environnemental sur les climats et écosystème locaux
+- Déplacement des populations.
+- Déforestation => Dégagement CH4 et CO2
+
+
+
+
+Usines utilisant la puissance des marées.
+
+
+
+
+
+
+
+
+
+
+LA BIOMASSE :
+C'est l'énergie stockée dans la matière vivante comme la végétation.
+
+
+Utilisation massive a conduit à une déforestation entre le 17 et 18e siècle chez nous.
+
+
+A l'échelle de la culture => Rendement théorique max < 6 %
+
+
+Pollution : bilan globale plus intéressant que énergie fossile.
+C'est le bois qui domine
+
+
+Valorisation énergétique de la biomasse :
+produits humides (transfo biochimique) => lentes
+produits sec ( thermochimiques) => rapides
+
+
+Pouvoir énergétique 1/3 pétrole.
+
+
+
+
+1.Le bois:
+1/2 utilisé à des fin énergétiques
+1T = 0,25 TEP
+
+
+2. biocarburant:
+3x plus cher que ceux tirés du pétrole.
+
+
+Pour 1T biocarburant remplacant 1 T de pétrole il faut 1 ha.
+
+
+Pose le problème des surfaces disponibles.
+
+
+En 2030-2050 si tous véhicules économes, les biocarburant devrait suffire. Pour cela défiscaliser les biocarburant et subventionner les cultures énergétiques.
+
+
+Effet positif sur la pollution.
+On pourrait lutter contre l'effet de serre MAIS il faut replanter avant d'exploiter.
+
+
+Dilemme : Biocarburant Vs Nourriture.
+
+
+2008-2009:
+Utilisation des microAlgues
+Contiennet Beaucoup d'énergie,  peuvent être cultivées en mer, biodégradables.
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Lecon 11 : Energie solaire
+
+
+
+
+Les énergies solaires:
+-Le chauffage solaire
+-photovoltaïque
+-éolien
+
+
+Chauffage:Encore cher
+
+
+
+
+
+
+Le photovoltaïque:
+Absorbtion des photons dans le semi conducteur libère des électrons et une différence de potentiel s'établit aux bornes.
+Rendement : labo 15 à 20 % réalité 10-15%
+actuellement 0.45€/kWh
+
+
+Niches de marché successive :
+1970 satellites
+80-90 App terrestre pro
+...
+
+
+1GWe = 26 km²
+
+
+
+
+
+
+Eolien:
+Pas de vent ou trop de vent => 0 puissance
+Fonctionnement aléatoire et intermittent 6.5h/j
+8ha/MW => 5x moins que photovoltaïque
+2 fois plus cher que centrale convetionnelle
+Seul 10% du potentiel est exploitable.
+
+
+
+
+Les piles à combustible:
+cas diff:
+-Pile allimentée directement par hydrogène et stockée dans un réservoir.
+-Hydrogène formée au niveau du système de pile par reformage:
+        -reformage interne: a lieu dans la pile elle même
+        - reformage externe : dans un système séparée
+
+
+Problème: les pointes de puissance
+Utilisation: transport, portable,stationnaire(cogénération)
+
+
+Pile à combustible microbiennes: Les micro organismes colonisent les électrodes et remplace le catalyseur platine
+
+
+
+
+Stockage de l'électricité: C'est le problème de l'énergie solaire.
+Production intermittente => nécessité de stockage.
+Accumulateur et piles.
+
+
+
+
+H2:
+Element le plus abondant dans l'univers.
+Densité d'énergie : 120 MJ/Kg (essence = 45 MJ/Kg)
+Densité d'énergie volumique 1 l essence = 4,6l H2 à 700 bars.
+Non poluant mais explosif.
+S'imposera quand il sera produit sans combustible fossile. ( reformage produit du CO2)
+
+
+Trois grandes filière de production:
+- oxydation de gaz ou produit d'origine fossile
+-électrolyse de l'eau
+-production directe à partir de biomasse ou par utilisation de bactérie
+
+
+Quatres formes de stockage:
+-transformation en produit hydrogénée ( alcool)
+-liquéfié (20°K) => Isolation thermique
+-comprimé ( 700 bars) => Réservoir (naturel ou artificiel)
+-Absorbé dans des matériaux comme les hydrures ou les nanotubes (prix élevé)
+
+
+Utilisation optimisée
+
+
+TRANSPORT - COMBUSTILBLES - POLLUTION:
+Le carburant n'est pas tout, il faut aussi le produire et disposer des moteurs adéquats
+Cela a aussi un coût.
+
+
+
+
+ECONOMIE D'ENERGIE: NEGA-WAT
+
+
+Isolation thermique, électronique intégrée, lampe à faible consommation, moteur plus éfficace, ...
+
+
+Intensité énergétique: La quantité d'énergie nécessaire pour constitué une unité de PIB.
+France : Transport > Résidentiel > Agriculture > Autre industrie > sidérurgie.
+
+
+Les économies technologiques ( isolations,  progrès des véhicules, ...) et comportementales ne vont pas toujours dans le même sens.
+
+
+Technologique: Plus difficile mais irréversible.
+Comportementales: Consommation à nouveau en hausse.
+
+
+
+
+
+
+
+
+CONCLUSION : AUCUNE SOURCE D'ENERGIE N'EST PARFAITE !
+-Faire des économies
+        En utilisant la technologie et l'éducation
+-Trouver le meilleur panachage énergétique
+        Il dépend de chaque pays.
+-Utiliser toutes les sources d'énergies
+        Ce sera nécessaire pour satisfaire les besoins (déclin du pétrole bon marché)
+-La recherche est importante
+        Diminuer les coûts de l'énergie. Augmenter les rendements. Stocker l'énergie         efficacement et à faible coût.
+
+
+
+
+////////////////////////////////////////////////////////////////////
+
+
+GAZ à Effet de serre :
+
+
+CO2          > 100 ans        60 %
+CH4        10 ans                25 %
+O3        50 jours        20 %
+N2O        > 100 ans        5%
+
+
+
+
+Plus grand réservoir de CO2 : Océan 40.000 Gt ( dégage 90 Gt/an et en absorbe 93)
+Déchet végétaux et sol: 2200 Gt (Dégage 101 Gt/an et en absorbe 100)
+Combustible fossile et production de ciment : dégage 7 Gt/an
++ 3 Gt par an dans l'atmosphère
+
+
+Emission anthropique : 9 Gt/an
+
+
+Si CO2 x 2 => +5 °C
+Si CO2 / 2 => -5°C
+=> Plus grand que différence Gl-Igl
+
+
+Si les émissions de CO2 continue à augmenter de >1% chaque année, en 2054 x2 !
+
+
+Sources de CO2 anthropique :(1998)
+Energie 43%
+Transport 24%
+Industrie 19 %
+Autres 14 %
+
+
+CH4:
+Bétail : 30 %
+Rizière : 22 %
+
+
+
+
+SLIDE 20
+A REPRENDRE APRES
+//////////////////////////////////////////////////////
+
+
+
+
+NUCLEAIRE:
+
+
+GENERALITE:
+
+
+Unités:
+Joule (j)
+kilowattheure (kWh) = 3,6 x 106 J
+tonne équivalent pétrole (tep) = 11 MWh
+Kilocalorie ( kCal) = 4,18 kJ = 1, Wh
+Electron - volt ( eV) = 1,6 x 1019 J
+
+
+Quatres intéraction fondamentales:
+Forte : 1 à 10 MeV
+        - fusion, fission nucléaire
+Electromagnétique 0,1 à 5 eV
+        -pile 1 à 3 v
+        -Rayonnement: 2 eV
+        -chimie: liaison des molécules
+        - Thermique: lisaison des solides, chaleur spécifiques
+Faible: 10-2 plus faible que force magnétique.
+        - Radioactivité.
+Gravitationnelle 10 -36 fois plus faible pour deux protons que la force de coulomb
+
+
+Equivalence de diférente énergie primaire:
+1 tep = 1,7 tec = 3,3 t de bois = 0,5g de matière fissile
+
+
+Consomation d'énergie de l'umanité = 10 Gtep
+
+
+Energie renouvelable = Ressource inépuisable à notre échelle ou renouvelable dans un temps court.
+
+
+
+
+Le nucléaire:
+Noyau : Assemblage stable ou instable de nucléons
+Nucléon: constituant d'un noyau (proton, neutron)
+Elément: définition chimique : Caractérisé par son nombre atomique ( nombre de protons du noyau ou d'électron  de l'atome.)
+Nombre de masse A: somme des nombres de protons et neutrons dans un noyau
+
+
+
+
+Radioactivité: 
+Modification spontannée de la structure interne de certain noyaux pour atteindre un niveau d'énergie interne plus faible.
+
+
+Cette transformation s'accompagne de l'émission de particules et/ou de rayon électromagnétique GAMMA.
+
+
+Cette désintégration est purement aléatoire. On ne peux donner qu'une proba de désintégration par unité de seconde. LAMBDA  = S-1
+
+
+3 types principaux:
+ALPHA : émission d'un noyau d'4He.
+        222Ra86  => 218Po84 +4ALPHA2 + LAMBDA
+
+
+BETA : - ou +  émission de e- ou e+
+        1 n ⇒ 1p + BETA - + v+
+        1p => 1 n  NETA + + v- dans un noyau uniquement
+
+
+
+
+LAMBDA : émission de rayonnement électromagnétique.
+
+
+N(t) = Qtité d’un isotope radioactif au temps t.
+
+
+N(t) diminue de - LAMBDA N(t)
+
+
+T1/2 = période ou demi-vie. = ln(2)/LAMBDA
+
+
+
+
+
+
+FUSION NUCLEAIRE:
+Watt = 1 J/s
+dE = dM c²
+si dm < 0 système fournit de l’énergie
+si dm > 0, système absorbe de l’énergie
+c = 3 * 10^5 km/s
+
+
+défaut de masse:
+Pour 4He2 :
+Mnoyau = 6,6647 * 10-27 kg
+Mconsti =  6,6952 * 10-27 kg
+
+
+dM = Mconsti - Mnoyau = 0,0305 * 1027 kg
+
+
+dM = MNoyau - Z  Mp  - N Mn 
+
+
+Eb = dM * c²
+
+
+énergie de liaison : dM c²
+
+
+fusion = 3,38 * 1014 J/Kg
+fission = 8,8 * 1013 J/Kg
+
+
+
+
+Fusion:
+Réaction la plus favorable : fusion des deux isotopes lourds de l’hydrogène.
+Problème:Rapprocher deux noyaux chargés positivement => Très haute T°
+
+
+Réaction en 3 étapes: ( dans soleil)
+-Fusion de deux 1H qui donne un 2H
+-Fusion d’un 1H avec un 2H qui donne un 3H
+- Fusion de deux 3H qui donne un 4He en rejetant deux 1H
+
+
+
+
+Sur terre: Réaction d+t (2H + 3H) plus favorable ( plus probable)
+
+
+Il faut: - haute température (108 °K)
+        -haute pression: distance entre les H de ~10-15m
+
+
+
+
+Deutérium très abondant ( dans l’eau 1 molécule/5000)
+Durée de vie du tritium : 10 ans -> Pas disponible naturellement sur terre.
+        => Mais peut être produit  dans le réacteur grâce à une couverture de 6 Li qui entoure le plasma.
+
+
+        Ou : 
+        n (rapide) + 73Li-> 3H + 42He + n(lent)
+
+
+Condition: Produire plus d’énergie que celle requise pour la création du plasma.
+Critère de lawson : valeur minimale pour le produit: temps de confinement * densité du plasma
+
+
+d+t => 1014s/cm³
+d+d =>  1016s/cm³
+
+
+Couverture tritigène:
+Triple fonction:
+-Protéger les aimants et la chambre à vide contre les neutrons et les radiations GAMMA.
+-Produire le tritium
+-Convetir l’énergie du n et l’évacuer.
+
+
+Un gaz hydrogène est chauffé pour former le plasma qui est confiné dans un  champ magnétique toroïdal.
+Pourquoi tore ? Car pas de perte aux extremités.
+Pour produire réaction, besoin d’un volume limité.
+Le plus éfficace : les lignes de champs hélocoïdales ( moins de fuites)
+
+
+ITER: but: fournir 10x l’énergie induite
+6G€
+
+
+1- injection des réactifs dans le plasma
+2-Production de cendres (4He) et d’énergie (particules chargées et neutrons)
+3- récupération d’énergie dans première parois
+4-Couverture: récup énergie
+5-Production élec.
+
+
+
+
+AVANTAGES :
+        -Combustible abondant et géographiquement répartis
+        - Si D-T (Li) 2000 ans; voir qq 106 ans avec Li dans l’eau)
+                si D-D 109 ans
+        -Emballement impossible
+        -Pas de GES
+        -Pas de déchet radioactif direct.
+
+
+INCONVENIENT:
+irradiation n => choix des matériaux constitutif important car risque de radioactivité
+défis techno.
+duite de tritium
+
+
+ITER: debut opération 2018
+PROTO: prototype en 2050
+
+
+
+
+
+
+FISSION :
+
+
+Les réacteurs se différentient par:
+        -Le combustible: U naturel ou enrichi ? Pu ?
+        -Le modérateur:H2O, D2O ou C (graphite) ou neutron rapide
+        -Le fluide caloporteur: H2O, D2O sous pression ou bouillant
+                                gaz carbonique
+                                Na liquide
+
+
+
+
+Autres composantes:
+-Barres de contrôle absorbant des neutrons
+-Le coeur est formé par le combustible et la structure nécessaire à le maintenir
+-réflecteur ( souvent le réfrigérant) pour optimiser la réaction entoure le coeur.
+-Coeur et reflecteur plongé dans un conteneur en acier (cuve du réacteur) protégé des rayonnements par un bouclier.
+-Instruments de mesure pour contrôler le fonctionnement
+
+
+
+
+Exemple:
+Réacteur à eau sous pression (REP)        (le plus commun dans le monde occidental, aussi en URSS)
+Combustible: Uranium enrichi à 3% 235U
+
+
+Principe d’un réacteur nucléaire:
+Réacteur à eau  sous pression
+Eau sous pression circule dans la partie confinée pour éviter qu’elle ne bout ( T° = 300°C )
+L’eau chaude est pompée dans le générateur de vapeur où l’eau de refroidissement se vaporise et passe dans une turbine conventionnelle.
+
+
+Cycle du combustible nucléaire pour un REP de 1000 MWe.
+
+
+  
+
+
+
+
+
+
+
+
+
+L’extraction:
+Extraction en mine par des tech. traditionnelles
+Réduction du volume par élimination des déchets
+Traitement chimique de purification et conversion en U3O8 (“Yellow cake”)
+=> Première production de déchets ( 10 à 100 T pour 1T de U selon la pureté du minerai)
+
+
+
+
+Enrichissement de l’U:
+-Transformation de l’ U3O8 en UF6 : Solide à température ambiante mais volatile à t° < eau bouillante.
+-Enrichissement effectué à un petit nombre d’endroit au monde (en principe)
+-Déchets: principalement U appauvri en 235.
+
+
+But: augmenter la proportion d’ 235U par rapport au 238U. ( 0,7 à 3,5%)
+Un des deux procédés actuels: diffusion gazeuse.
+UF6 forcé de diffusé sous pression à travers des parois poreuses. 
+La diffusion de l’235U légerement plus rapide que 238U.
+1000 étapes nécessaires pour passer de 3 à 4 %.
+
+
+UF6 solide à T° ambiante. mais deviens gazeux vers 60 °C
+
+
+Equipement lourd et consommant beaucoup d’énergie.
+UF6 corrosif => Pas de fuite.
+
+
+difficulté: matériaux pour centrifugeuse ( Ti ou acier spécial)
+
+
+
+
+
+
+Perte d’1,1 T de noyaux lourd => Perte 235U.
+Plus d’235U quand dans U naturel
+
+
+
+
+
+
+L’aval du cycle:
+-Retrait des combustible usé => Refroidissement 5-6 ans dans piscine.
+Ensuite: stockage à long terme ou retraitement
+
+
+
+
+
+
+Les déchets:
+3 catégories:
+
+
+- Faiblement radioactifs: des gants en caoutchouc suffisent pour se protéger.
+
+
+- Moyennement radioactifs: Objet industriels => Protection par écran
+
+
+-Fortement radioactifs: Produit de fission ou actinides mineurs
+
+
+
+
+Rejets par an et par habitant en Belgique:
+Industriel=2,5t dont 100kg toxique
+Ménagers=0,8 T
+CO2 = 6T
+Nuclaire = 1kg dont 100g moy. et fort. radioactif 
+
+
+
+
+
+
+Quels choix pour déchets:
+Actuellement: Stockage direct (USA,Suède) ou retraitement (France,Japon,Russie,...)
+D’autres voies à l’étude:
+-Transmutation ou incinération
+-Réacteurs 4ème gen.
+
+
+Stockage:
+-Entroposage
+-Stockage géologique ( Solution la plus probable pour déchets très radioactif)
+
+
+
+
+Accident tchernobyl
+- Mise à l’arrêt du réacteur 4 et décision de tester aptitude de fournir assez de puissance élec. en cas de non fonctionnement de la centrale élec principale et avant démarrage unité de secours.
+-Pas d’échange d’info entre équipe test et équipe sécu.
+- Réacteur mal concu
+- Niveau de culture de sécurité insuffisant.
+
+
+=> Soudain et incontrolable pic de puissance
+
+
+
+
+Problème: médiocre usage de l’uranium car seul l’235U (0,7%) fissionne dans les REP.
+Solutions:
+- On exploite tout l’uranium:
+        RNR ( réacteur à neutron rapide)
+        100 x moins de déchets que dans les réacteurs actuels.
+-On utilise du thorium:
+        Réacteurs sels fondus (neutrons lents)
+        1000 x moins de déchets que actuellement
+
+
+=> Reserve > 2000 ans.
+
+
+
+
+Quelques élements sur les dangers:
+Plusieurs élem a prendre en compte:
+-Type de rayonn.
+-intensité
+-type de tissu irradié
+-total des doses reçues
+-normalité
+
+
+Qq unités:
+1 désintégration/s = 1 Bq
+Dose absorbée par unité de masse : gray = Gy = 1J/Kg
+
+
+Absorbtion radiation:
+ALPHA:Papier
+BETA:Plastic
+GAMA et rayonX:Plomb
+Neutron:Béton
+
+
+Facteurs de pondération radiologique:
+-Photons : Q=1
+-Electrons et muons : Q = 1
+-Neutrons:
+        -Energie < 10 KeV ou energie > 20MeV Q = 5
+        -10KeV < energie < 100 KeV ou 2 MeV <  energie < 20MeV Q = 10
+        -100KeV < energie < 2MeV Q = 20
+-Protons: Q=5
+-Particule alpha et autres noyaux atomiques: Q= 20
+
+
+
+
+Facteurs de pondérations (tissu):
+-Gonades: N=0,20
+-Estomac,Gros intestin,moelle osseuse, poumon: N =0,12
+-Cerveau,oesophage, foie, muscles, pancréas,petit intestin,rate,rein,sein,thyroïde, utérus,vessie: N=0,05
+- Peau, surface des os: N= 0,01
+
+
+Effets des irradiations:
+-doses les plus élevées : effets immédiats apparaissant après qq heures ou jours.
+-Doses  plus faibles:Effets aléatoire,proba uniquement déterminés par des études épidémiologiques à long termes
+-Difficultés:pas de cancer spécifiques aux irradiations
+-Comparaison nécéssaire avec un populations “saine”
+-Impossibilité de mettre en évidence les effets des faibles doses.
+
+
+Danger d’une exposition(photon):
+- < 200 mGy: Rien
+-< 1500 mGy: lésions cutanées, rougeurs, jusqu’à la nécrose
+- >1500 mGy:début syndrome irradiation aiguë: fatigue, anorexie, chute de numérotation sanguine
+- >5000mGy:céphalée, diarrhées,(1/2 chance de survivre)
+- > 8000mGy:fièvre, prostration, dose mortelle.
+
+
+Principaux radioéléments toxiques:
+-131I: 8j de vie
+        -Migre dans lait, légume vert 
+        - Cancer de la thyroïde
+        -remède: saturer thyroïde en iode stable
+- 129I: durée de vie longue, pas de danger pour thyroïde mais déchet important.
+-137Cs: 30 ans, transmis a l’homme par animaux et végétaux dans masse musc.
+        période bio:30j
+-90Sr: 30 ans , transmis par voie animale et végétale (lait)
+        squelette et cancer des os
+        période bio:2500j
+-225Rn: Pas toxique directement mais par ses descendants
+        inhalation et cancer du poumons.
+-3H: 12 ans
+        Exposition interne par eau tritié
+        Elimination apres une dizaine de jours
+        Boire pour accélerer elimination.
+
+
+Effet d’une radiation sur cellule:
+  
+
+
+
+
+
+
+
+Le nucléaire a de nombreuses autres application:
+-Physique fondamentale
+-Médecine
+-Analyse des surfaces
+-Tracage
+-Datation
+-Militaire...
+
+
+
+
+
+
+
+
+REACTEUR DE FISSION:
+
+
+Noyaux impairs moins liés que noyaux pairs
+dE = E(A-1) - E(A)
+
+
+Trois élements naturels lourd seulement en qtité importantes sur terre: 232Th, 235U,238U
+Pourquoi ?
+Tout les noyaux lourd sont instable
+Ces éléments on les plus grosses demi-vie parmis les noyaux lourds:
+232Th : 14 Gannée
+238U: 4,5 Gannée
+235U: 700 Mannée
+
+
+Composition actuelle de l’U ajd: 238U = 99,3% et 235U= 0,7%
+
+
+
+
+Définitions:
+Noyaux fissiles: Fissionne si ils absorbent un neutron de basse énergie
+        Noyaux lourds  impair(N) - pair(Z) ( ex: 235U92)
+Noyaux fertiles: qui après absorbtion d’un neutron(capture) et décroissance BETA fournissent un noyau          fissile.                (1n0 + AXZ  ⇒ A+1XZ)
+        Noyaux lourds pair(N) - pair(Z) ( ex 238U92)
+
+
+Réaction de diffusion: Ralentissement du n
+D’autant plus efficace si X est leger => Modération
+
+
+Seul le 235U NATUREL (!!!!!) est fissile.
+232Th et 238U sont fertiles et produisent deux autres noyaux fissiles: 233U et 239Pu
+
+
+
+
+Fission de l’U:
+Un neutron est capturé par 235U: Formation 236U qui fissionne.
+
+
+Les produits de la fission ( PF) sont radioactif émetteurs BETA et/ou GAMMA.
+
+
+Absorption = capture 238U
+
+
+Réaction en chaine: Après fission, 235U libère 2 à 3 neutrons qui peuvent à leurs tours diviser d’autre noyaux.
+
+
+Dans réacteur: contrôler de tel façon quqe un seul des 3 neutrons provoque une réaction.
+        => Modérateur
+
+
+
+
+Neutrons:
+
+
+Energie cinétique
+	Classification
+	0,025 eV
+	thermiques
+	de 0,025 eV à 100 eV
+	lents
+	de 100 eV à 10 keV
+	intermédiaires
+	10 keV à 10 MeV
+	rapides
+	> 10 MeV
+	haute énergie
+	
+
+Choix: Garder les neutrons à l’énergie de fission ( rapides ) OU ralentir jusqu’a obtenir un neutron thermique.
+
+
+
+
+Vie d’un neutron dans un réacteur:
+- Neutron utile: capturé par 235U et produit une fission.
+- Neutrons inefficaces:
+        - Capturé par 238U
+        - Capturé par les matériaux du réacteur.
+        -sort de la zone de réaction.
+        - Capturé par 235 et ne produit pas de fission.
+
+
+Bilan doit être : Un neutron produisant une fission résulte en un neutron en produisant une autre.
+
+
+
+
+
+
+
+
+
+
+Multiplicité des neutrons de fissions:
+neutrons sont:
+-négligeable du point de vue énergétique
+-essentiels pour l’organisation de la réaction en chaîne
+
+
+v’ = Nombre moyen de n émis par fission
+n’ = nombre moyen de n émis par n absorbé
+Si n’ < v’ et n’>1 => Réac en chaine possible
+
+
+
+
+k = cst de multi = fissions(t+1)/fission(t)
+Si k < 1 => Système sous critique
+si k = 1 => Système critique
+si k > 1 => Système sur critique
+
+
+
+
+4 facteurs : réacteurs infini
+
+
+1 nth provoque une fission qui produit η neutrons rapides
+ces neutrons rapides provoque des fissions rapides ( 238U) qui multiplie le nombre de neutron par ε
+Avec la modération: p = proba de survie
+f = proba d’absorb menant a fission.
+
+
+kinfini =  η ε p f
+
+
+réacteur réal keff = 1
+
+
+
+
+
+
+modération:
+Transparance: diffuser sans absorber
+minimiser les captures sans fission dans combustible
+
+
+Les choix:
+D2O: compromis transparance-efficacité;
+H2O: Le plus compact et bon caloporteur
+C: ne peut être caloporteur
+
+
+Stabilité et pilotage du réacteur
+p = réactivité = (keff-1)/keff
+Stabilité: p = 0
+
+
+Temps entre deux générations de fission = de qq µs à qq ms.
+
+
+Qq neutrons retardé(0,65% pour 235U)
+Le fonctionnement d’un réacteur n’atteint la criticité qu’avec l’aide des neutrons retardés.
+
+
+p évolue lentement: 1%/mois
+        -> Usure du combistible et sa conversion en d’autres isotopes
+        -> Apparition de produit de fission et d’actinide non fissile qui absorbent les neutrons.
+
+
+
+
+
+
+
+
+EOLIENNE:
+Triplement de la puissance installée en 5 ans (2004-2009) =>158.000 MW en 2009
+Allemagne et espagne => +- 20 % de la puissance UE chacun.
+
+
+Deux principes:
+-Eoliène synchrone et asynchrone
+
+
+La physique de l’éoliènne:
+Puissance =  ½ m v²
+Masse traversant l’éoliènne  prop à la vitesse du vent = k v
+=> Puissance prop à v³
+Loi d’Albert Betz => Limite théorique à 59 % de la limite max.
+Ajd => 50% du max
+Gains de 1% augm. de 10m de la hauteur
+hélice de 60m avec vent de 10m/s => Puiss thé de 1MW
+
+
+Limite mécanique de 2MW (atteint à 50 km/h => 13.9 m/s)
+Protection anti orage => 0MW si > 90km/h => 25 m/s
+
+
+Conception des éoliènnes:
+- En général tripales
+- axe des pales incliné de 4 à 5° pour compenser gradiant de vitesse du vent en fonction de l’altitude
+-Régulation de puissance par calage variable
+-Hauteur mat égal au diamètre des pales
+- mat tubulaire(EU) où a treillis(USA)
+-Utilisation de matériaux composite et d’ élec de puissance.
+
+
+Peu d’émission de CO2
+
+
+Intermittence
+variabilité quotidienne
+
+
+Remplacer 12 réacteur REP en grance
+=> 12 réac = 12 GWe
+      12.000 éoliènne * 1 MWe = 12 GWe
+
+
+
+
+
+
+
+
+LE SOLAIRE :
+
+
+-Energie abondante et inépuisable
+178 Millons de milliard de W arrive sur terre sur ca surface éclaire ( 350W/m² equateur)
+
+
+-Utilisation la plus directe:Production domestique d’eau chaude et chauffage
+-Production d’élec
+        rendement max = 15%
+        cout 5 à 10 x sup aux sources conventionnelle
+        surface nésc. pour produire l’élec d’une centrale de 1000 MWe: 50 à 100 km²
+
+
+Coût énergétique: 7 ans
+
+
+L’énergie solaire est compétitive dans les endroits isolés ou dans les pays à faible densité de population où il n’est pas rentable  d’établir un réseau.
+
+
+Si l’on mettais assez de panneau solaire dans le sahara pour donner de l’énergie au monde entier, l’aire couverte ferait la taille de l’autriche.
+
+
+Solaire photovoltaïque: deux modes
+-Mode économie d’énergie, associé a du stockage        
+-Mode production d’énergie
+
+
+Solaire thermodynamique:
+tech à fluide caloporteur
+=>N’exploite que le rayonnement solaire direct.
+
+
+
+
+
+
+CONCLUSION:
+- Les seuls système énergétiques sans inconvénients sont ceux qui n’ont pas encore produit d’énergie.
+-Les performances écologiques d’un système énergétique ne doivent pas relever de l’incantation, il faut les prouver. Ces perfo sont rarement universelles.
+GEOL-F-103        Université Libre de Bruxelles         /
